@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in a seemingly straightforward Python function designed to calculate the average of a list of numbers. The function includes a check for an empty list, but still fails in a non-obvious way. The solution shows how to rectify the issue.
